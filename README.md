@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrk-ghost
 - 👀 I’m interested in Ethical Hacking and Cybersecurity
-- 🌱 I’m currently Python for hacking and bug bounty
+- 🌱 I’m currently learning Python for hacking and bug bounty
 - 💞️ I’m looking to collaborate on hacking projects, cybersecurity challenges, and coding solutions
 - 📫 How to reach me ...
 - 😄 Pronouns: He
